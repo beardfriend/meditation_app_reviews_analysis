@@ -17,14 +17,14 @@ pip install tensorflow-metal==0.5.0
 즉 명상앱 3가지에 대한 평점에 대한 신뢰성은 어느정도 보장 가능하다..  
 (머신러닝 모델이 예측을 잘하지 못해서 결과는 재미로만...)
 
-![](output2.png)
+![](./assets/output2.png)
 
-![](output3.png)
+![](./assets/output3.png)
 
-![](output.png)
+![](./assets/output.png)
 
-![](output6.png)
+![](./assets/output6.png)
 
-![](output5.png)
+![](./assets/output5.png)
 
-![](output4.png)
+![](./assets/output4.png)
